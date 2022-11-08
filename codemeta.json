@@ -13,7 +13,7 @@
     "name": "R",
     "url": "https://r-project.org"
   },
-  "runtimePlatform": "R version 4.2.1 (2022-06-23)",
+  "runtimePlatform": "R version 4.2.2 (2022-10-31)",
   "author": [
     {
       "@type": "Person",
@@ -119,5 +119,6 @@
     },
     "SystemRequirements": null
   },
-  "fileSize": "15.112KB"
+  "fileSize": "15.112KB",
+  "readme": "https://github.com/LEEF-UZH/LEEF.measurement.conductivity/blob/master/Readme.md"
 }
