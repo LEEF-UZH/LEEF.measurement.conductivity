@@ -1,9 +1,9 @@
 {
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "SoftwareSourceCode",
-  "identifier": "LEEF.measurement.conductivity",
+  "identifier": "LEEF.2.measurement.conductivity",
   "description": "More about what it does (maybe more than one line) Use four spaces when indenting paragraphs within the Description.",
-  "name": "LEEF.measurement.conductivity: Pre-Process and Extract Conductivity",
+  "name": "LEEF.2.measurement.conductivity: Pre-Process and Extract Conductivity",
   "codeRepository": "https://github.com/LEEF-UZH/LEEF.measurement.conductivity",
   "issueTracker": "https://github.com/LEEF-UZH/LEEF.measurement.conductivity/issues",
   "license": "https://spdx.org/licenses/MIT",
@@ -13,7 +13,7 @@
     "name": "R",
     "url": "https://r-project.org"
   },
-  "runtimePlatform": "R version 4.2.2 (2022-10-31)",
+  "runtimePlatform": "R version 4.2.1 (2022-06-23)",
   "author": [
     {
       "@type": "Person",
@@ -119,6 +119,6 @@
     },
     "SystemRequirements": null
   },
-  "fileSize": "15.112KB",
+  "fileSize": "15.12KB",
   "readme": "https://github.com/LEEF-UZH/LEEF.measurement.conductivity/blob/master/Readme.md"
 }

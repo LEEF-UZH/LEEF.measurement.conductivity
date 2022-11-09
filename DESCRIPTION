@@ -1,4 +1,4 @@
-Package: LEEF.measurement.conductivity
+Package: LEEF.2.measurement.conductivity
 Type: Package
 Title: Pre-Process and Extract Conductivity
 Version: 0.9.0
